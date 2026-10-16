@@ -10,3 +10,4 @@ type: changelog
 | Date | File | Change |
 |---|---|---|
 | 2026-10-08 | _context.md | Vault 초기 구조 생성 |
+| 2026-10-16 | 나/now.md | 오늘 피칭의견서 2개 작성 우선순위 기록 |
